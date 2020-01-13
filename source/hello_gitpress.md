@@ -1,7 +1,7 @@
 ---
 title: Hello GitPress
 tags: ["GitPress"]
-excerpt: 个人简介
+excerpt: Hello GitPress
 date: 2019-3-18
 ---
 
