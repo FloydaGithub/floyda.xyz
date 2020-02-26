@@ -29,5 +29,5 @@ date: 2020-1-15
 
 
 ### 一图胜千言  
-![](https://segmentfault.com/img/bVkJAj)  
-![](https://segmentfault.com/img/bVkyHw)  
+![](https://raw.githubusercontent.com/floydawong/images/master/img/20200226142219.png)
+![](https://raw.githubusercontent.com/floydawong/images/master/img/20200226142252.png)
