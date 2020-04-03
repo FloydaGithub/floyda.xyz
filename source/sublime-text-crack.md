@@ -6,7 +6,9 @@ date: 2020-4-3
 ---
 
 # 破解 Sublime Text  
-> [教程地址](https://gist.github.com/floydawong/44235f96bec917ee1106748662fe67c5)
+> [教程地址](https://gist.github.com/floydawong/44235f96bec917ee1106748662fe67c5)  
+> [网友写的脚本(便携版)](https://gist.github.com/n6333373/c15e8ae61f5e0421cf9091affb733312)  
+
 
 ```Python  
 # Subscribe to my YouTube Channel -> https://lokjianming.page.link/CVLm #
